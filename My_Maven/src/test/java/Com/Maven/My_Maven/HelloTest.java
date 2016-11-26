@@ -10,6 +10,8 @@ public class HelloTest {
 		System.out.println("Starting Mevan Rafi----");
 		
 		System.out.println("Mavennnn and Egit");
+		
+		System.out.println("Exit Maven and Egit");
 	}
 
 }
